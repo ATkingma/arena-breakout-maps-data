@@ -1,0 +1,47 @@
+{
+  "markerIcons": {
+    "spawn": {
+      "color": "#00ff00",
+      "size": 20,
+      "icon": "spawn-point.svg"
+    },
+    "extraction": {
+      "color": "#0066ff",
+      "size": 20,
+      "icon": "homie.png"
+    },
+    "loot-areas": {
+      "color": "#ffaa00",
+      "size": 18
+    },
+    "loot-container": {
+      "weapon-cache": {
+        "color": "#ff6600",
+        "size": 16,
+        "icon": "test.png"
+      },
+      "supply-box": {
+        "color": "#006600",
+        "size": 16,
+        "icon": "test.png"
+      },
+      "medical-kit": {
+        "color": "#ff0066",
+        "size": 16,
+        "icon": "test.png"
+      },
+      "ammo-box": {
+        "color": "#666600",
+        "size": 16,
+        "icon": "test.png"
+      }
+    }
+  },
+  "rarityColors": {
+    "common": "#ffffff",
+    "uncommon": "#00ff00",
+    "rare": "#0066ff",
+    "epic": "#9900ff",
+    "legendary": "#ff6600"
+  }
+}
