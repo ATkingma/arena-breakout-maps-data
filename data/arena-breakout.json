@@ -31,7 +31,7 @@
             {
               "name": "Central Loot Area",
               "type": "loot",
-              "icon": "test.png",
+              "icon": "new.png",
               "color": "#ffff00",
               "fallbackColor": "#cccc00",
               "description": "High-value loot spawns in center",
